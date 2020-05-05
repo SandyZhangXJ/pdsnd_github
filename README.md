@@ -8,7 +8,7 @@ push to branch on git
 this is a file in git course project
 
 ### Files used
-Include the files used
+too lazy to list
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
