@@ -5,7 +5,7 @@
 push to branch on git
 
 ### Description
-Describe what your project is about and what it does
+this is a file in git course project
 
 ### Files used
 Include the files used
